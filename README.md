@@ -10,14 +10,30 @@
 |  50036118  | Alberto Zumbi |
 
 ## Enquadramento
-O nosso projecto para as disciplinas de Competências Comunicacionais, Bases de Dados e Programação Orientada por Objetos foca-se no contexto dos objetivos de desenvolvimento sustentável das nações unidas. Precisamente nas cidades e comunidades sustentáveis e Saúde de qualidade.\
-A nossa aplicação vai incentivar a educação ambiental, estimulando a minimização na produção de resíduos, reciclagem e compostagem mostrando como e onde as pessoas poderão fazer as suas hortas.
+As hortas comunitárias são espaços de convívio, de lazer e de aprendizagem que melhoram a qualidade da alimentação das pessoas que se encontram nos centros urbanos. As hortas comunitárias utilizam lotes individuais ou compartilhados em terras públicas ou privadas, enquanto produzem frutas, vegetais e /ou plantas.
 
+Notamos  que em Lisboa e não só as pessoas têm dificuldades em localizar os lugares apropriados para se fazer o cultivo das hortas comunitárias e como podem fazê-las, deste modo a nossa aplicação vai incentivar a educação ambiental, estimulando a minimização na produção de resíduos, reciclagem e compostagem mostrando como e onde as pessoas poderão fazer as suas hortas.
+
+As hortas comunitárias podem ajudar a reduzir os impactos ambientais negativos, promovendo uma agricultura sustentável reduzindo os custos de transporte de alimentos e reduzindo o escoamento de água. Humanos, plantas e animais podem se beneficiar com a agricultura urbana, uma vez que cria habitats e melhora a ecologia da área.
+
+
+As hortas comunitárias podem:
+Ajudar a melhorar a qualidade do ar e do solo 
+Aumentar a biodiversidade de plantas e animais
+Pode substituir estruturas impermeáveis e melhorar a infiltração de água 
+Pode reduzir o desperdício da vizinhança por meio da compostagem 
+Impactar positivamente o microclima urbano
+
+ 
+ 
 O projeto está inserido no seguinte contexto:
 https://revistajardins.pt/hortas-comunitarias-alimentos-saudaveis/
 http://www.toscca.com/blog/hortas-urbanas-aproveite-os-beneficios-trazem-tanto-alimentacao-ao-meio-ambiente/
 https://www.dgterritorio.gov.pt/sites/default/files/ficheiros-cidades/Cidades_Sustentaveis2020.pdf
 https://unric.org/pt/objetivos-de-desenvolvimento-sustentavel/
+ 
+ 
+
 
 
 ## Casos de utilização:
